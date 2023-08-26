@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaX27104
 - 👀 I’m interested in building new PC , like to have knowledge on various new hardware components 
 - 🌱 I’m currently learning Reactjs
-- 💞️ I would like to work With Anyone who is ready to teach me how to build computers.
+- 💞️ I would like to work With Anyone who is ready to teach me how to build pc.
 - 📫 How to reach me ...
  here is my instagram id:-daksh_0921 
 <!---
